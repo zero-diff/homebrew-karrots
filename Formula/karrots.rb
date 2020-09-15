@@ -2,8 +2,10 @@ class Karrots < Formula
   desc "creates fully gitops-automated kubernetes clusters"
   homepage "https://zero-diff.github.io/karrots"
   url "https://zero-diff.github.io/karrots/releases/binaries/brew/karrots.tar.gz"
-  sha256 "3b27b78133bab8999150057133ebcd74a321516356aa6d8142684ff1d8c1e8a5"
+  sha256 "895f92f50d461c798972abfb46bffb588531d57e39f0c484b97c10050febabf1"
   version "0.1.0"
+  
+  depends_on "git"
 
   bottle :unneeded
 
