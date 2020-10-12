@@ -3,8 +3,8 @@ class Karrots < Formula
   homepage "https://karrots.zerodiff.org"
   license "BSD-3-Clause"
   url "https://karrots.zerodiff.org/releases/binaries/brew/karrots.tar.gz"
-  sha256 "07c1c5004ba2afaa095c03e60c378a602ac8c4436564cee2407612e8698f22b6"
-  version "0.2.1"
+  sha256 "24ac12b4bfb04bd6d8fa9a904fb48fdab3d868e6828ba5a6bedd0b1b527b7f6e"
+  version "0.2.2"
   
   depends_on "git"
   depends_on "jq"
