@@ -2,9 +2,9 @@ class Karrots < Formula
   desc "creates fully gitops-automated kubernetes clusters"
   homepage "https://karrots.zerodiff.org"
   license "BSD-3-Clause"
-  url "https://karrots.zerodiff.org/releases/binaries/brew/karrots.0.2.4-1.tar.gz"
-  sha256 "c0823beb0729c3d0b4393928b7fb28d89c06d31a561a942cd7ac561bd31f72c8"
-  version "0.2.4"
+  url "https://karrots.zerodiff.org/releases/binaries/brew/karrots.0.2.5-1.tar.gz"
+  sha256 "eecba981e82c87b204f8016b6a318ef4e73013b6c5763c7b45ff724349561896"
+  version "0.2.5"
   
   depends_on "git"
   depends_on "jq"
